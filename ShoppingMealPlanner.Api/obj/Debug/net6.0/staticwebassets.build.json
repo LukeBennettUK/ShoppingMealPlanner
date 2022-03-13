@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EN2Vql7YpRW/lYz9CirLB1xok0yMsS2ZPPdrwhHo8iI=",
+  "Source": "ShoppingMealPlanner.Api",
+  "BasePath": "_content/ShoppingMealPlanner.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
