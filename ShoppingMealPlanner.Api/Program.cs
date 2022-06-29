@@ -1,4 +1,4 @@
-using ShoppingMealPlanner.Api.Data;
+using ShoppingMealPlanner.Data;
 using Microsoft.EntityFrameworkCore;
 
 var myAllowSpecificOrigins = "_myAllowSpecificOrigins";
@@ -12,9 +12,9 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<DataContext>(options =>
+builder.Services.AddDbContext<ShoppingMealPlannerDbContext>(options =>
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
 });
 
 // Enable CORS

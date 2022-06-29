@@ -20,4 +20,19 @@
       <Folder Include="Controllers" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\ShoppingMealPlanner.Data\ShoppingMealPlanner.Data.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Remove="appsettings.development.json" />
+      <None Include="appsettings.development.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+      <Content Remove="appsettings.json" />
+      <None Include="appsettings.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+    </ItemGroup>
+
 </Project>
