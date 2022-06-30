@@ -1,8 +1,11 @@
-﻿namespace ShoppingMealPlanner.Models;
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace ShoppingMealPlanner.Models;
 
 public class Ingredient
 {
     public int Id { get; set; }
+    [MaxLength(100)]
     public string Name { get; set; } = String.Empty;
     public int Quantity { get; set; }
     public int UnitId { get; set; }

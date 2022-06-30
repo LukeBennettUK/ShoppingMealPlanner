@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "SUwQ6vdA1UU6XeoORPRUQVtVeeKUPGpDLj68QNu9YxuJ5pfCk+RwROsDWgR0sDRsm9eqMb4nXw21Lxp90DDisw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LukeB\\RiderProjects\\ShoppingMealPlanner\\ShoppingMealPlanner.Data\\ShoppingMealPlanner.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LukeB\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0-preview.1.22076.6\\microsoft.entityframeworkcore.7.0.0-preview.1.22076.6.nupkg.sha512",
+    "C:\\Users\\LukeB\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0-preview.1.22076.6\\microsoft.entityframeworkcore.abstractions.7.0.0-preview.1.22076.6.nupkg.sha512",
+    "C:\\Users\\LukeB\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.0-preview.1.22076.6\\microsoft.entityframeworkcore.analyzers.7.0.0-preview.1.22076.6.nupkg.sha512",
+    "C:\\Users\\LukeB\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0-preview.1.22076.8\\microsoft.extensions.caching.abstractions.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\LukeB\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0-preview.1.22076.8\\microsoft.extensions.caching.memory.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\LukeB\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0-preview.1.22076.8\\microsoft.extensions.dependencyinjection.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\LukeB\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0-preview.1.22076.8\\microsoft.extensions.dependencyinjection.abstractions.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\LukeB\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0-preview.1.22076.8\\microsoft.extensions.logging.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\LukeB\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0-preview.1.22076.8\\microsoft.extensions.logging.abstractions.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\LukeB\\.nuget\\packages\\microsoft.extensions.options\\7.0.0-preview.1.22076.8\\microsoft.extensions.options.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\LukeB\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-preview.1.22076.8\\microsoft.extensions.primitives.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\LukeB\\.nuget\\packages\\system.collections.immutable\\7.0.0-preview.1.22076.8\\system.collections.immutable.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\LukeB\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.0-preview.1.22076.8\\system.diagnostics.diagnosticsource.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\LukeB\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\7.0.0-preview.1.22076.8\\system.runtime.compilerservices.unsafe.7.0.0-preview.1.22076.8.nupkg.sha512"
+  ],
+  "logs": []
+}

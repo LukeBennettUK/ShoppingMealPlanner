@@ -1,0 +1,6 @@
+C:\Users\LukeB\RiderProjects\ShoppingMealPlanner\ShoppingMealPlanner.Data\obj\Debug\net6.0\ShoppingMealPlanner.Data.csproj.AssemblyReference.cache
+C:\Users\LukeB\RiderProjects\ShoppingMealPlanner\ShoppingMealPlanner.Data\obj\Debug\net6.0\ShoppingMealPlanner.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LukeB\RiderProjects\ShoppingMealPlanner\ShoppingMealPlanner.Data\obj\Debug\net6.0\ShoppingMealPlanner.Data.AssemblyInfoInputs.cache
+C:\Users\LukeB\RiderProjects\ShoppingMealPlanner\ShoppingMealPlanner.Data\obj\Debug\net6.0\ShoppingMealPlanner.Data.AssemblyInfo.cs
+C:\Users\LukeB\RiderProjects\ShoppingMealPlanner\ShoppingMealPlanner.Data\obj\Debug\net6.0\ShoppingMealPlanner.Data.csproj.CoreCompileInputs.cache
+C:\Users\LukeB\RiderProjects\ShoppingMealPlanner\ShoppingMealPlanner.Data\obj\Debug\net6.0\ShoppingMealPlanner.Data.MvcApplicationPartsAssemblyInfo.cache
