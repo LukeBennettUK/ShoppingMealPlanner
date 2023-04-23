@@ -1,0 +1,13 @@
+C:\Users\LukeB\RiderProjects\ShoppingMealPlanner\ShoppingMealPlanner.Configuration\bin\Debug\net6.0\ShoppingMealPlanner.Configuration.deps.json
+C:\Users\LukeB\RiderProjects\ShoppingMealPlanner\ShoppingMealPlanner.Configuration\bin\Debug\net6.0\ShoppingMealPlanner.Configuration.dll
+C:\Users\LukeB\RiderProjects\ShoppingMealPlanner\ShoppingMealPlanner.Configuration\bin\Debug\net6.0\ShoppingMealPlanner.Configuration.pdb
+C:\Users\LukeB\RiderProjects\ShoppingMealPlanner\ShoppingMealPlanner.Configuration\obj\Debug\net6.0\ShoppingMealPlanner.Configuration.csproj.AssemblyReference.cache
+C:\Users\LukeB\RiderProjects\ShoppingMealPlanner\ShoppingMealPlanner.Configuration\obj\Debug\net6.0\ShoppingMealPlanner.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LukeB\RiderProjects\ShoppingMealPlanner\ShoppingMealPlanner.Configuration\obj\Debug\net6.0\ShoppingMealPlanner.Configuration.AssemblyInfoInputs.cache
+C:\Users\LukeB\RiderProjects\ShoppingMealPlanner\ShoppingMealPlanner.Configuration\obj\Debug\net6.0\ShoppingMealPlanner.Configuration.AssemblyInfo.cs
+C:\Users\LukeB\RiderProjects\ShoppingMealPlanner\ShoppingMealPlanner.Configuration\obj\Debug\net6.0\ShoppingMealPlanner.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\LukeB\RiderProjects\ShoppingMealPlanner\ShoppingMealPlanner.Configuration\obj\Debug\net6.0\ShoppingMealPlanner.Configuration.dll
+C:\Users\LukeB\RiderProjects\ShoppingMealPlanner\ShoppingMealPlanner.Configuration\obj\Debug\net6.0\refint\ShoppingMealPlanner.Configuration.dll
+C:\Users\LukeB\RiderProjects\ShoppingMealPlanner\ShoppingMealPlanner.Configuration\obj\Debug\net6.0\ShoppingMealPlanner.Configuration.pdb
+C:\Users\LukeB\RiderProjects\ShoppingMealPlanner\ShoppingMealPlanner.Configuration\obj\Debug\net6.0\ref\ShoppingMealPlanner.Configuration.dll
+C:\Users\LukeB\RiderProjects\ShoppingMealPlanner\ShoppingMealPlanner.Configuration\bin\Debug\net6.0\appsettings.application.json

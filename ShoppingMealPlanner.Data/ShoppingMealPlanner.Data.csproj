@@ -8,6 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\ShoppingMealPlanner.Configuration\ShoppingMealPlanner.Configuration.csproj" />
       <ProjectReference Include="..\ShoppingMealPlanner.Models\ShoppingMealPlanner.Models.csproj" />
     </ItemGroup>
 
@@ -21,9 +22,6 @@
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </None>
       <Content Remove="appsettings.json" />
-      <None Include="appsettings.json">
-        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      </None>
     </ItemGroup>
 
 </Project>

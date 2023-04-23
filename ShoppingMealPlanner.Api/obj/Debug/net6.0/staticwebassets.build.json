@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2/V11nPyfOFEJb/hgqoioPoL7fBC1uNC9aHpHGKeYyk=",
+  "Hash": "UYq4bXyLGioYV2Y73KWJzczhhjVqaT5ShQujYXCxjG0=",
   "Source": "ShoppingMealPlanner.Api",
   "BasePath": "_content/ShoppingMealPlanner.Api",
   "Mode": "Default",
@@ -11,10 +11,10 @@
       "Version": 2,
       "Source": "ShoppingMealPlanner.Data",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
     }
   ],
