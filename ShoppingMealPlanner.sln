@@ -9,13 +9,31 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Applications", "Application
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{4645B260-EAB7-47F0-B918-928D257DB907}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingMealPlanner.Models", "ShoppingMealPlanner.Models\ShoppingMealPlanner.Models.csproj", "{CEE3D2C7-D470-4178-9B7E-423BD80D18DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingMealPlanner.Models", "ShoppingMealPlanner.Models\ShoppingMealPlanner.Models.csproj", "{CEE3D2C7-D470-4178-9B7E-423BD80D18DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingMealPlanner.Data", "ShoppingMealPlanner.Data\ShoppingMealPlanner.Data.csproj", "{5AED6D77-98BA-4FA5-BDF3-2BB88D47E057}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingMealPlanner.Data", "ShoppingMealPlanner.Data\ShoppingMealPlanner.Data.csproj", "{5AED6D77-98BA-4FA5-BDF3-2BB88D47E057}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingMealPlanner.Web", "ShoppingMealPlanner.Web\ShoppingMealPlanner.Web.csproj", "{5CD5E0E2-2A77-4494-B8AD-31ACE31D5AAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingMealPlanner.Configuration", "ShoppingMealPlanner.Configuration\ShoppingMealPlanner.Configuration.csproj", "{C62A8F18-FDFE-4ABD-AA0A-1A475E95AB28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingMealPlanner.Configuration", "ShoppingMealPlanner.Configuration\ShoppingMealPlanner.Configuration.csproj", "{C62A8F18-FDFE-4ABD-AA0A-1A475E95AB28}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ShoppingMealPlanner.Web", "ShoppingMealPlanner.Web\", "{E69BAA15-C3BA-426D-8EB4-A7B97462B36E}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51063"
+		Debug.AspNetCompiler.PhysicalPath = "ShoppingMealPlanner.Web\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51063\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51063"
+		Release.AspNetCompiler.PhysicalPath = "ShoppingMealPlanner.Web\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51063\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51063"
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,26 +53,26 @@ Global
 		{5AED6D77-98BA-4FA5-BDF3-2BB88D47E057}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AED6D77-98BA-4FA5-BDF3-2BB88D47E057}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AED6D77-98BA-4FA5-BDF3-2BB88D47E057}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5CD5E0E2-2A77-4494-B8AD-31ACE31D5AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5CD5E0E2-2A77-4494-B8AD-31ACE31D5AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5CD5E0E2-2A77-4494-B8AD-31ACE31D5AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5CD5E0E2-2A77-4494-B8AD-31ACE31D5AAF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C62A8F18-FDFE-4ABD-AA0A-1A475E95AB28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C62A8F18-FDFE-4ABD-AA0A-1A475E95AB28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C62A8F18-FDFE-4ABD-AA0A-1A475E95AB28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C62A8F18-FDFE-4ABD-AA0A-1A475E95AB28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E69BAA15-C3BA-426D-8EB4-A7B97462B36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E69BAA15-C3BA-426D-8EB4-A7B97462B36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E69BAA15-C3BA-426D-8EB4-A7B97462B36E}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{E69BAA15-C3BA-426D-8EB4-A7B97462B36E}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3D4EC1A9-29F5-4CB8-AEE9-94C40675A8D5}
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B7954F10-7834-4731-8CA2-14F1C0A6DDAF} = {C2FF185D-DDB2-4F82-B03F-28F108159E12}
 		{CEE3D2C7-D470-4178-9B7E-423BD80D18DD} = {4645B260-EAB7-47F0-B918-928D257DB907}
 		{5AED6D77-98BA-4FA5-BDF3-2BB88D47E057} = {4645B260-EAB7-47F0-B918-928D257DB907}
-		{5CD5E0E2-2A77-4494-B8AD-31ACE31D5AAF} = {C2FF185D-DDB2-4F82-B03F-28F108159E12}
 		{C62A8F18-FDFE-4ABD-AA0A-1A475E95AB28} = {4645B260-EAB7-47F0-B918-928D257DB907}
+		{E69BAA15-C3BA-426D-8EB4-A7B97462B36E} = {C2FF185D-DDB2-4F82-B03F-28F108159E12}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D4EC1A9-29F5-4CB8-AEE9-94C40675A8D5}
 	EndGlobalSection
 EndGlobal
