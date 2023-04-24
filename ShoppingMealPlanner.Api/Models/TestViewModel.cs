@@ -2,5 +2,6 @@
 
 public class TestViewModel
 {
-    public string Test { get; set; }
+    public Guid Guid { get; set; }
+    public string Title { get; set; }
 }

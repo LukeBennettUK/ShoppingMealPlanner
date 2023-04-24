@@ -10,9 +10,23 @@ public class TestController: Controller
     [HttpGet]
     public IActionResult MyIndex(int? id)
     {
-        var model = new TestViewModel()
+        var model = new List<TestViewModel>
         {
-            Test = "luke-test"
+            new TestViewModel()
+            {
+                Guid = Guid.NewGuid(),
+                Title = "First post"
+            },
+            new TestViewModel()
+            {
+                Guid = Guid.NewGuid(),
+                Title = "Second post"
+            },
+            new TestViewModel()
+            {
+                Guid = Guid.NewGuid(),
+                Title = "Third post"
+            }
         };
         
         return Ok(model);
